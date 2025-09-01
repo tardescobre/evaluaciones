@@ -82,3 +82,4 @@ if st.button("Registrar datos profesionales"):
     else:
         st.error("Por favor completá todos los campos del profesional.")
 
+
